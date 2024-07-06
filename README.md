@@ -8,7 +8,7 @@
 - [File Structure](#file-structure)
 
 ## Project Description📝
-Manipulate with turtlesim package in ROS
+Manipulate with turtlesim package in ROS noetic
 
 ## Technologies Used 🔧
 
@@ -16,6 +16,13 @@ Manipulate with turtlesim package in ROS
 - **Ubuntu 20.04**:
 
 ## Installation 🗺️
+
+## Manipulate with turtlesim package in ROS noetic
+- Node:
+
+- Topic
+
+- Services
 
 
 ## File Structure 🏗️
