@@ -36,4 +36,4 @@ Turtlesim-In-ROS/
 - `README.md`: This file, containing information about the project.
 
 made with love by "she codes team "🤍😄
-raghd Alshammari - sadeem alresaini - razan alothaim.
+raghad Alshammari - sadeem alresaini - razan alothaim.
