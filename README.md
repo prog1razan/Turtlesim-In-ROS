@@ -18,7 +18,7 @@ Manipulate with turtlesim package in ROS noetic
 ## Installation 🗺️
 
 ## Manipulate with turtlesim package in ROS noetic
-- Node:
+- Node
 
 - Topic
 
